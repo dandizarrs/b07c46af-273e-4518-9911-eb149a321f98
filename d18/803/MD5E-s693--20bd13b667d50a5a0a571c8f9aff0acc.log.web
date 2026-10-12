@@ -1,0 +1,8 @@
+1791810984s 1 https://dandiarchive.s3.amazonaws.com/zarr/b07c46af-273e-4518-9911-eb149a321f98/extensions/quality_metrics/runtime_s/.zarray?versionId=gikXp7J5UzcGsI1TBh6aEPqcwyRki3LK
+1791810984s 1 https://api.dandiarchive.org/api/zarr/b07c46af-273e-4518-9911-eb149a321f98/files?prefix=extensions%2Fquality_metrics%2Fruntime_s%2F.zarray&download=true
+1791810984s 1 https://dandiarchive.s3.amazonaws.com/zarr/b07c46af-273e-4518-9911-eb149a321f98/extensions/template_metrics/runtime_s/.zarray?versionId=HqCU0krd5AstXDk9Q8XCvxhn9af_jrJn
+1791810984s 1 https://api.dandiarchive.org/api/zarr/b07c46af-273e-4518-9911-eb149a321f98/files?prefix=extensions%2Ftemplate_metrics%2Fruntime_s%2F.zarray&download=true
+1791810985s 1 https://dandiarchive.s3.amazonaws.com/zarr/b07c46af-273e-4518-9911-eb149a321f98/recording/.zarray?versionId=3O.pR7F5w.s4EzkdCEzW3LCsfNjZJ_t_
+1791810985s 1 https://api.dandiarchive.org/api/zarr/b07c46af-273e-4518-9911-eb149a321f98/files?prefix=recording%2F.zarray&download=true
+1791810985s 1 https://dandiarchive.s3.amazonaws.com/zarr/b07c46af-273e-4518-9911-eb149a321f98/sorting_provenance/.zarray?versionId=iaPlPkISw1hn1g3b5.BJHa8bEa8s97gO
+1791810985s 1 https://api.dandiarchive.org/api/zarr/b07c46af-273e-4518-9911-eb149a321f98/files?prefix=sorting_provenance%2F.zarray&download=true
